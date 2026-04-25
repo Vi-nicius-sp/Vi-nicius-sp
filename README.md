@@ -1,29 +1,16 @@
-## Sobre Mim  
-  
+## Sobre Mim
 
-Atualmente, dedico-me ao estudo aprofundado de **Cibersegurança** e **Bancos de Dados**. Minha jornada me levou a explorar as capacidades do Python e do MySQL para resolver desafios do mundo real.  
-  
+Estudante de Desenvolvimento de Sistemas com foco em **Cibersegurança**, **Back-end** e **Banco de Dados**. Possuo conhecimentos em **Python** e **JavaScript (intermediário)**, além de experiência com **MySQL/SQL**, desenvolvimento web (**HTML, CSS, Angular**) e noções de redes e infraestrutura. Busco aplicar tecnologia na resolução de problemas reais, com foco em dados, segurança e eficiência.
 
-### Interesses Pessoais  
-  
+## Interesses Pessoais
 
-- **Foco principal:** Python, MySQL (Banco de dados)  
-  
+- **Foco principal:** Cibersegurança, Banco de Dados (MySQL/SQL), Programação (Python, JavaScript)
+- **Outras habilidades:** C#, PHP, TypeScript, desenvolvimento web e mobile (Flutter/Dart)
+- **Conceitos:** Segurança da Informação, Lógica de Programação, Estrutura de Dados, Redes
 
-- **Outras habilidades:** C#, JavaScript  
-  
+## Objetivo Profissional
 
-- **Conceitos:** Segurança da Informação, Lógica de Programação  
-  
-
-### Objetivo Profissional  
-  
-
-Estou em busca de estágios ou projetos colaborativos para aplicar e expandir meu conhecimento em soluções do mundo real.
-Estou procurando um estágio ou projeto colaborativo onde eu possa aplicar meu conhecimento, aprender com desafios práticos e crescer profissionalmente.
-
-Vamos conversar?  
-  
+Busco oportunidades de **estágio** ou projetos colaborativos na área de tecnologia, onde possa aplicar meus conhecimentos em programação, dados e segurança, desenvolver habilidades práticas e evoluir profissionalmente com desafios reais.
 
 <br/>  
 
@@ -73,5 +60,12 @@ Vamos conversar?
 </div>
 
 </td></tr></table>  
+
+<br/>  
+
+## Contact
+
+- **Email:** viniciuspereiradearaujo24@gmail.com  
+- **Phone:** +55 11 96277-9616
 
 <br/>  
