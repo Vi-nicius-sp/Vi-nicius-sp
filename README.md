@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner_github.png" alt="Banner" width="100%">
+</p>
+
 ## Sobre Mim
 
 Estudante de Desenvolvimento de Sistemas com foco em **Cibersegurança**, **Back-end** e **Banco de Dados**. Possuo conhecimentos em **Python** e **JavaScript (intermediário)**, além de experiência com **MySQL/SQL**, desenvolvimento web (**HTML, CSS, Angular**) e noções de redes e infraestrutura. Busco aplicar tecnologia na resolução de problemas reais, com foco em dados, segurança e eficiência.
